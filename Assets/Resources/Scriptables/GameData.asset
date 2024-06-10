@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2b9af3d0e31543c2a3cf2bbc65e4e708, type: 3}
+  m_Name: GameData
+  m_EditorClassIdentifier: 
+  characters:
+  - name: Felicity
+    showModel: {fileID: 6057207523541782632, guid: 0567309414dd6e64c85d8e22a4192593, type: 3}
+    controller: {fileID: 2499041905140277854, guid: 28df9ba86a246ab4d800f78f9fbc7e2a, type: 3}
+  - name: Logan
+    showModel: {fileID: 2765829810712745730, guid: 3a6579d8bf935294f9c96016843e43f9, type: 3}
+    controller: {fileID: 5393084162480769484, guid: 9cddd2fd275a9aa4a99801ac3182f31d, type: 3}
+  - name: Brian
+    showModel: {fileID: 2062247024410783235, guid: ca90bed5e26866546b28f904285fb140, type: 3}
+    controller: {fileID: 4283892126888177096, guid: fcf4fbf5cdad90c4bbfb4bd483e2b99e, type: 3}
